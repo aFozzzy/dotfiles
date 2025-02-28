@@ -1,3 +1,9 @@
+# Fozzzy does dotfiles
+
+My take on this management of dotfiles
+
+# Original DOCS
+
 # holman does dotfiles
 
 Your dotfiles are how you personalize your system. These are mine.
