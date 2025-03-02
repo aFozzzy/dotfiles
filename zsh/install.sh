@@ -10,5 +10,5 @@ sudo apt-get --only-upgrade -y install zsh
 
 # Check if zsh is the default shell
 if [ "$SHELL" != "/usr/bin/zsh" ]; then
-  sudo chsh -s $(which zsh)
+  sudo chsh -s $(which zsh) $(whoami)
 fi
